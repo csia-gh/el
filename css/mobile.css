@@ -57,4 +57,13 @@
   .flex-grid .column img:nth-of-type(2) {
     margin-top: 0;
   }
+
+  .post {
+    padding: 30px 10px;
+    text-align: justify;
+  }
+
+  .post img {
+    width: 200px;
+  }
 }
