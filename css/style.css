@@ -162,11 +162,11 @@ img {
         border: none;
     }
 
-    .navbar nav.navbar-links li:hover,
-    .navbar nav.navbar-links li:focus,
+    .navbar nav.navbar-links li:hover a,
+    .navbar nav.navbar-links li:focus a,
     .current {
-        background-color: #28a745;
-        border-bottom: none;
+        background-color: #28a745 !important;
+        border: none;
     }
 
     .navbar-links.active {
