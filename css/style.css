@@ -166,6 +166,7 @@ img {
     .navbar nav.navbar-links li:focus,
     .current {
         background-color: #28a745;
+        border-bottom: none;
     }
 
     .navbar-links.active {
